@@ -1,3 +1,4 @@
 # first_proj
-this is my first git repository
+this is my first git repository.
+<br>
 Author - Tanay
